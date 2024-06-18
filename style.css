@@ -862,7 +862,7 @@ html {
 /* PHONE_2 */
 @media (min-width: 320px) and (max-width: 479px) {
     .container {
-        width: 401.7px;
+        width: 350px;
         outline: solid rgb(157, 255, 0) 1px;
         margin: 0 auto;
         padding: 0;
