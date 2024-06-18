@@ -828,9 +828,9 @@ a {
     display: block;
 }
 
-html {
+/* html {
     width: 100%;
-}
+} */
 /* video::before {
     content: '';
     width: 58px;
@@ -862,7 +862,7 @@ html {
 /* PHONE_2 */
 @media (min-width: 320px) and (max-width: 479px) {
     .container {
-        width: 350px;
+        width: 400px;
         outline: solid rgb(157, 255, 0) 1px;
         margin: 0 auto;
         padding: 0;
@@ -872,7 +872,7 @@ html {
         /* width: 375px; */
         /* min-width: 320px; */
         /* max-width: 479px; */
-        width: 479px;
+        width: 126%;
         margin: 0 auto;
         background-image: url(photos_jpg/photo_for_mobile_first.jpg);
         background-size: cover;
@@ -1012,7 +1012,7 @@ html {
     }
     
     .section_second {
-        width: 475px;
+        width: 580px;
         margin: 0 auto;
         background-image: url(photos_jpg/background_2.jpg);
         background-size: cover;
@@ -1080,7 +1080,7 @@ html {
     }
     
     .section_third {
-        width: 479px;
+        width: 580px;
         margin: 0 auto;
         background-size: cover;
         background-image: url(photos_jpg/background_3.jpg);
@@ -1117,7 +1117,7 @@ html {
     
     .section_4 {
         background-image: url(photos_jpg/background_4.jpg);
-        width: 479px;
+        width: 580px;
         margin: 0 auto;
         background-size: cover;
     }
@@ -1227,7 +1227,7 @@ html {
     
     .small_section {
         background-image: url(photos_jpg/small_background.jpg);
-        width: 479px;
+        width: 580px;
         margin: 0 auto;
         background-size: cover;
     }
@@ -1286,7 +1286,7 @@ html {
     
     .live_life {
         background-image: url(photos_jpg/live_life.jpg);
-        width: 479px;
+        width: 580px;
         margin: 0 auto;
         background-size: cover;
     }
@@ -1375,7 +1375,7 @@ html {
     }
     
     .section_grid {
-        width: 479px;
+        width: 580px;
         margin: 0 auto;
         background-size: cover;
     }
@@ -1548,7 +1548,7 @@ html {
     
     .section_footer {
         background: rgba(1, 10, 32, 1);
-        width: 479px;
+        width: 580px;
         margin: 0 auto;
         background-size: cover;
     }
@@ -2552,7 +2552,7 @@ html {
 
 @media (min-width: 480px) and (max-width: 575px) {
     .container {
-        width: 477.25px;
+        width: 720px !important;
         outline: solid rgb(212, 0, 255) 1px;
         margin: 0 auto;
         padding: 0;
