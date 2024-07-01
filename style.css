@@ -869,17 +869,17 @@ a {
     }
     
     .section_first {
-        /* width: 375px; */
+        width: 724px;
         /* min-width: 320px; */
         /* max-width: 479px; */
-        width: 126%;
+        /* width: 126%; */
         margin: 0 auto;
         background-image: url(photos_jpg/photo_for_mobile_first.jpg);
         background-size: cover;
     }
 
     section {
-        width: 479px;
+        /* width: 126%; */
     }
     
     .explore {
@@ -1012,11 +1012,11 @@ a {
     }
     
     .section_second {
-        width: 580px;
+        /* width: 580px; */
         margin: 0 auto;
         background-image: url(photos_jpg/background_2.jpg);
         background-size: cover;
-    
+        width: 724px;
     }
     
     .blur {
@@ -1080,7 +1080,7 @@ a {
     }
     
     .section_third {
-        width: 580px;
+        width: 724px;
         margin: 0 auto;
         background-size: cover;
         background-image: url(photos_jpg/background_3.jpg);
@@ -1117,7 +1117,7 @@ a {
     
     .section_4 {
         background-image: url(photos_jpg/background_4.jpg);
-        width: 580px;
+        width: 724px;
         margin: 0 auto;
         background-size: cover;
     }
@@ -1227,7 +1227,7 @@ a {
     
     .small_section {
         background-image: url(photos_jpg/small_background.jpg);
-        width: 580px;
+        width: 724px;
         margin: 0 auto;
         background-size: cover;
     }
@@ -1286,7 +1286,7 @@ a {
     
     .live_life {
         background-image: url(photos_jpg/live_life.jpg);
-        width: 580px;
+        width: 724px;
         margin: 0 auto;
         background-size: cover;
     }
@@ -1548,7 +1548,7 @@ a {
     
     .section_footer {
         background: rgba(1, 10, 32, 1);
-        width: 580px;
+        width: 724px;
         margin: 0 auto;
         background-size: cover;
     }
